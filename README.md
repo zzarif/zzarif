@@ -83,6 +83,12 @@
       </a>
       <br>Java
     </td>
+     <td align="center"  width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=latex">
+      </a>
+      <br>LaTeX
+    </td>
     <td align="center"  width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c">
