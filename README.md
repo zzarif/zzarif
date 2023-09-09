@@ -63,6 +63,8 @@
       </a>
       <br>Linux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96"> 
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html">
@@ -75,8 +77,6 @@
       </a>
       <br>CSS
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java">
