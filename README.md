@@ -51,7 +51,21 @@
       </a>
       <br>Postman
     </td>
-     <td align="center"  width="96">
+    <td align="center" width="96"> 
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=heroku">
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=sqlite">
+      </a>
+      <br>SQLite
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=androidstudio">
       </a>
@@ -63,8 +77,6 @@
       </a>
       <br>Linux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html">
@@ -91,15 +103,15 @@
     </td>
     <td align="center"  width="96">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c">
+        <img src="https://skillicons.dev/icons?i=python">
       </a>
-      <br>C
+      <br>Python
     </td>
     <td align="center"  width="96">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp">
+        <img src="https://skillicons.dev/icons?i=django">
       </a>
-      <br>CPP
+      <br>Django
     </td>
   </tr>
 </table>
