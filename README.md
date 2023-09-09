@@ -1,5 +1,5 @@
 ### Hi there, I am Zibran Zarif Amio.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zibran-zarif-amio-b82717263/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zibran-zarif-amio-b82717263/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zibranif)
 
 <!--
 **zzarif/zzarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
