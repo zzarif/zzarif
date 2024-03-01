@@ -1,10 +1,10 @@
 ### Hi there, I am Zibran Zarif Amio.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zibran-zarif-amio-b82717263/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zibranif) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zzarif)
 
-## Co-founder & CTO, ReplyMind | Full-stack Developer | Full-time AI Enthusiast
-- 🛠 &nbsp;I'm currently developing <a href="https://www.replymind.com">ReplyMind</a>, A Google Chrome Extension
-- 📝 &nbsp;Teaching a course on Prompt Engineering and AI with GPT-3.5
-- 👨🏻‍💻 &nbsp;Learning React for Web Development
+## Co-founder & CTO, ReplyMind | Full-stack (React/Node/Express) Developer | Data Science & NLP Enthusiast
+- 🛠 &nbsp;Co-founded & developed <a href="https://www.replymind.com">ReplyMind</a>, A Google Chrome Extension
+- 📝 &nbsp;Experienced (2+ years) Android Developer & Full-stack Developer
+- 👨🏻‍💻 &nbsp;Learning Data Science & NLP
 
 ### Languages and Tools:
 <table>
