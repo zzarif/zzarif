@@ -1,7 +1,8 @@
 ![Zibran Zarif Amio](banner.png)
+## Machine Learning Engineer, ReplyMind | Full-stack Developer | Data Science
+
 ![Profile Views](https://komarev.com/ghpvc/?username=zzarif&style=flat&base=500&abbreviated=true)
 
-## Full-stack M/L Engineer, ReplyMind.ai | Full-stack Developer | Data Science
 🔭 I specialize in Machine Learning with Python.<br>🌱 I develop LLM-enabled full-stack applications. <br>📫 I built [ReplyMind.ai](https://www.replymind.com/) Chrome Extension from scratch. <br>👨🏻‍💻 Follow me on [GitHub](https://github.com/zzarif) & [YouTube](https://www.youtube.com/@zibranzarif) to stay updated on my latest projects.
 
 ## 🌐 Socials:
