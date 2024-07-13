@@ -1,3 +1,4 @@
+![Zibran Zarif Amio](banner.png)
 ![Profile Views](https://komarev.com/ghpvc/?username=zzarif&style=flat&base=500&abbreviated=true)
 
 ## Full-stack M/L Engineer, ReplyMind.ai | Full-stack Developer | Data Science
