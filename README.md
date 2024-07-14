@@ -13,13 +13,18 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,selenium,git,vscode,vercel,postman,react,vite,express,nodejs,flask,django,firebase,javascript,html,css,c,cpp,latex">
 </a>
 
+## Projects and Contributions:
+
+| Title | Description |
+| ----------- | ----------- |
+| [Python Database](https://github.com/zzarif/Python-Database) | I prepared solutions to popular Python problems from Hackerrank, Leetcode, PyTorch, etc. which I update regularly.|
+| [Intel 8086 Emulator](https://github.com/zzarif/Intel-8086-Emulator) | I created a 16-bit microprocessor emulator on Android for university students to practice Assembly Language for free. |
+
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zzarif&theme=github_dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzarif&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
