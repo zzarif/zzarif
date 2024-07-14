@@ -13,8 +13,14 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,selenium,git,vscode,vercel,postman,react,vite,express,nodejs,flask,django,firebase,javascript,html,css,c,cpp,latex">
 </a>
 
-## 🗂️ Projects and Contributions:
+## 🗂️ Projects:
+| Title | Description |
+| ----------- | ----------- |
+| [StackExchange Scifi Tags Classifier](https://github.com/zzarif/StackExchange-Scifi-Tags-Classifier) | Classify 160 different tags from StackExchange Scifi questions.|
+| [Pasta Shape Recognizer](https://github.com/zzarif/Pasta-Shape-Recognizer) | An image recognizer that recognizes 20 different shapes of Pasta. |
+| [Industry Market Cap Analysis](https://github.com/zzarif/Industry-Market-Cap-Analysis) | Cross-industry analysis reveals insights through comprehensive dashboards. |
 
+## 🤝 Contributions:
 | Title | Description |
 | ----------- | ----------- |
 | [Python Database](https://github.com/zzarif/Python-Database) | I prepared solutions to popular Python problems from Hackerrank, Leetcode, PyTorch, etc. which I update regularly.|
