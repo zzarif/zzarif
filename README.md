@@ -1,5 +1,5 @@
 [![Zibran Zarif Amio](banner.png)](https://zzarif.github.io/)
-## M/L Engineer, ReplyMind | Full-stack Developer | Data Science
+## ML Engineer, ReplyMind | Full-stack Developer | Data Science
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zzarif&style=flat&base=500&abbreviated=true)
 
