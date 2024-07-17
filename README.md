@@ -16,7 +16,7 @@
 ### 🗂️ Projects:
 | Title | Description |
 | ----------- | ----------- |
-| [StackExchange Scifi Tags Classifier](https://github.com/zzarif/StackExchange-Scifi-Tags-Classifier) | Classify 160 different tags from StackExchange Scifi questions.|
+| [Multilabel Scifi Tags Classifier](https://github.com/zzarif/Multilabel-Scifi-Tags-Classifier) | Classify 160 different tags from scifi and fantasy questions.|
 | [Pasta Shape Recognizer](https://github.com/zzarif/Pasta-Shape-Recognizer) | An image recognizer that recognizes 20 different shapes of Pasta. |
 | [Industry Market Cap Analysis](https://github.com/zzarif/Industry-Market-Cap-Analysis) | Cross-industry analysis reveals insights through comprehensive dashboards. |
 
