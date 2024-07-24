@@ -23,8 +23,8 @@
 ### 🤝 Contributions:
 | Title | Description |
 | ----------- | ----------- |
-| [Python Database](https://github.com/zzarif/Python-Database) | I prepared solutions to popular Python problems from Hackerrank, Leetcode, PyTorch, etc. which I update regularly.|
-| [Intel 8086 Emulator](https://github.com/zzarif/Intel-8086-Emulator) | I created a 16-bit microprocessor emulator on Android for university students to practice Assembly Language for free. |
+| [Python for Data Science](https://github.com/zzarif/Python-for-Data-Science) | Prepared a complete beginner's guide to Python for Data Science covering Python & PyTorch basics and practice problems from Hackerrank & Leetcode. |
+| [Intel 8086 Emulator](https://github.com/zzarif/Intel-8086-Emulator) | Created a 16-bit microprocessor emulator on Android for university students to practice Assembly Language for free. |
 
 
 ## 📊 GitHub Stats:
