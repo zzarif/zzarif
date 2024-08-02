@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-
 <h1 align="center">Hey there👋, I'm Zibran Zarif Amio.</h1>
 <h3 align="center">ML Engineer, ReplyMind | Full-stack Developer | Data Science</h3>
 <h3 align="center"> 🌐 <a href="https://zzarif.github.io/">zzarif.github.io</a> </h3>
@@ -43,6 +39,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=zzarif&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzarif)](https://github.com/anuraghazra/github-readme-stats)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zibran-zarif-amio-b82717263/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@zibranzarif) 
+
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 -->
 
 <!--
