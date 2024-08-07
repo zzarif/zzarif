@@ -26,7 +26,7 @@
 | Title | Description |
 | ----------- | ----------- |
 | [Python for Data Science](https://github.com/zzarif/Python-for-Data-Science) | Prepared a complete beginner's guide to Python for Data Science covering Python & PyTorch basics and practice problems from Hackerrank & Leetcode. |
-| [Intel 8086 Emulator](https://github.com/zzarif/Intel-8086-Emulator) | Created a 16-bit microprocessor emulator on Android for university students to practice Assembly Language for free. |
+| [Intel 8086 Emulator](https://github.com/zzarif/Intel-8086-Android-Emulator) | Created a 16-bit microprocessor emulator on Android for university students to practice Assembly Language for free. |
 
 
 ## 📊 GitHub Stats:
