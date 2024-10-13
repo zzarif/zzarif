@@ -7,7 +7,7 @@
 🔭 I specialize in Machine Learning with Python.<br>🌱 I develop LLM-enabled full-stack applications. <br>📫 I built [ReplyMind.ai](https://www.replymind.com/) Chrome Extension from scratch. <br>👨🏻‍💻 Follow me on [GitHub](https://github.com/zzarif) & [YouTube](https://www.youtube.com/@zibranzarif) to stay updated on my latest projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zibran-zarif-amio-b82717263/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zibranzarif) [![LeetCode](https://img.shields.io/badge/LeetCode-FCD535?logo=LeetCode&logoColor=black)](https://leetcode.com/u/zzarif/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/zibranzarif) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://zibranzarif.hashnode.dev/) [![Mail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff)](mailto:zibran.zarif.amio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zibran-zarif-amio-b82717263/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zibranzarif) [![Mail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff)](mailto:zibran.zarif.amio@gmail.com)
 
 ## 🎨 Languages and Tools:
 <a href="https://skillicons.dev">
