@@ -17,7 +17,7 @@
 ### 🗂️ Projects:
 | Title | Description |
 | ----------- | ----------- |
-| [ResumeChat AI](https://github.com/zzarif/ResumeChat-AI) | Llama RAG app to chat with Applicants' Resume and Extension for LinkedIn. |
+| [AI Detector](https://github.com/zzarif/AI-Detector) | Detect AI-generated coding answers with SBERT models. |
 | [Multilabel Scifi Tags Classifier](https://github.com/zzarif/Multilabel-Scifi-Tags-Classifier) | Classify 160 different tags from scifi and fantasy questions.|
 | [Pasta Shape Recognizer](https://github.com/zzarif/Pasta-Shape-Recognizer) | An image recognizer that recognizes 20 different shapes of Pasta. |
 | [Industry Market Cap Analysis](https://github.com/zzarif/Industry-Market-Cap-Analysis) | Financial analysis dashboards comparing 1500 companies across 8 industries. |
