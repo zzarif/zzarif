@@ -1,5 +1,7 @@
 <h1 align="center">Hey there👋, I'm Zibran Zarif Amio.</h1>
 <h3 align="center">AI Engineer, BrillMark | Full-stack Developer | Data Science</h3>
+<h5 align="center">(This is my personal account, recently I'm more active on my work account)</h5>
+
 <h3 align="center"> 🌐 <a href="https://zzarif.github.io/">zzarif.github.io</a> </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zzarif&style=flat&base=500&abbreviated=true)
