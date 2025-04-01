@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zzarif&style=flat&base=500&abbreviated=true)
 
-🔭 I specialize in AI Engineering and Python.<br>🌱 I develop LLM-enabled full-stack applications. <br>📫 I built [ReplyMind.ai](https://www.replymind.com/) Chrome Extension from scratch. <br>👨🏻‍💻 Follow me on [GitHub](https://github.com/zzarif) & [YouTube](https://www.youtube.com/@zibranzarif) to stay updated on my latest projects.
+🔭 I specialize in AI Engineering and Python.<br>🌱 I develop LLM-enabled full-stack applications. <br>📫 I built [ReplyMind](https://www.replymind.com/) Chrome Extension from scratch. <br>👨🏻‍💻 Follow me on [GitHub](https://github.com/zzarif) & [YouTube](https://www.youtube.com/@zibranzarif) to stay updated on my latest projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zibran-zarif-amio-b82717263/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zibranzarif) [![Mail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff)](mailto:zibran.zarif.amio@gmail.com)
